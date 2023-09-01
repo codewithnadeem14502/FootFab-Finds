@@ -21,7 +21,6 @@ function App() {
         <PopluarProduct />
       </section>
       <section className="padding">
-        {" "}
         <SuperQuality />
       </section>
       <section className="padding-x  py-10">
